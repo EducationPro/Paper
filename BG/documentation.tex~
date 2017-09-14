@@ -94,26 +94,23 @@
 	
 	\begin{abstract}
 		Изградени са много системи за управление на обучението, но нито една от тях не използва най-новите технологии в обучението (няма система, която да обединява изкуствения интелект и виртуалната реаност в едно).
-		%In fact there are a lot of built-in learning management systems, but there are not any system that combines the newest technologies in education - there are not any system that uses artificial intelligence and virtual reality at once. 
-		\\
+		In fact there are a lot of built-in learning management systems, but there are not any system that combines the newest technologies in education - there are not any system that uses artificial intelligence and virtual reality at once. \\
 		\\
 		Основната цел на нашия проект е създаването на система, която да използва тези технологии и да създадем „виртуален асистент“, който да конбинира най-добрите практики в организирането на обучения, така че да са интересни, полезни и максимално улеснени за учениците. Най-важната част от проекта ни е да стимулираме учениците, показвайки им, че предметите не са толкова трудни, колкото изглеждат.
-		%The core aim of our project is to create system that combines these techniques and to build "artificial teacher" that combines best practices in organizing training so that it will be interesting, useful and much easier for the students. The most important part of our project is to fertilize students, showing them that their subjects is not as difficult as sound.
-		\\
+		The core aim of our project is to create system that combines these techniques and to build "artificial teacher" that combines best practices in organizing training so that it will be interesting, useful and much easier for the students. The most important part of our project is to fertilize students, showing them that their subjects is not as difficult as sound.\\
 		\\		
-		%Teacher will train student by lessons and different types of exercises which will include theoretical part, but will mostly be oriented practically. 
-		Асистентът ще помага на учениците като отговаря на въпросите им към уроците и като им дава различни по тип задачи, които ще включват теоретична част, но в по-голяма степен ще са ориентирани към практиката.
+		Teacher will train student by lessons and different types of exercises which will include theoretical part, but will mostly be oriented practically. 
 	\end{abstract}
 	\vspace{1cm}
 	\includegraphics[width=\textwidth]{../robot-teacher.jpg}
 	\newpage
 	
-	\section{Въведение}
+	\section{Introduction}
 	
 	\vspace{1cm}
 	\large{
-		\begin{myblock}{"Система за управление на обучението"}
-			Това е софтуер за администриране, документиране, приследяване, публикуване и получаване на обучителни курсове и тренировачни програми.
+		\begin{myblock}{"Learning management system"}
+			It is a software application for the administration, documentation, tracking, reporting and delivery of educational courses or training programs.
 			\rule{\textwidth}{0.4pt}
 			{
 				\begin{flushright}
@@ -122,8 +119,8 @@
 			}
 		\end{myblock}
 		\vspace{1cm}
-		\begin{myblock}{"Виртуален асистент"}
-			Това е система, която трябва да помага на учениците по интерактивен, интересен, полезен и по-лесен начин за тях. Тя може да бъде представена като "индивидуален ментор" по съответния предмет.
+		\begin{myblock}{"Artificial teacher"}
+			It is a system that must teach students by interactive, interesting, useful and much easier way for them. It can be represented as "individual mentor" in specific subject.
 		\end{myblock}
 		\vspace{1cm}
 		There are a lot of built-in learning management systems, but there are not any system that combines artificial intelligence and virtual reality at once. \\
