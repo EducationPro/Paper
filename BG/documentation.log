@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2017.9.14)  14 SEP 2017 05:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2017.9.14)  16 SEP 2017 23:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1083,31 +1083,31 @@ LaTeX Warning: Label `mariadb' multiply defined.
 )
 \openout1 = `documentation.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Try loading font information for T2A+lmr on input line 87.
-LaTeX Font Info:    No file T2Almr.fd. on input line 87.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Try loading font information for T2A+lmr on input line 85.
+LaTeX Font Info:    No file T2Almr.fd. on input line 85.
 
 
 LaTeX Font Warning: Font shape `T2A/lmr/m/n' undefined
-(Font)              using `T2A/cmr/m/n' instead on input line 87.
+(Font)              using `T2A/cmr/m/n' instead on input line 85.
 
 \AtBeginShipoutBox=\box46
-Package hyperref Info: Link coloring ON on input line 87.
+Package hyperref Info: Link coloring ON on input line 85.
 (/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
@@ -1116,9 +1116,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count125
 )
-LaTeX Info: Redefining \ref on input line 87.
-LaTeX Info: Redefining \pageref on input line 87.
-LaTeX Info: Redefining \nameref on input line 87.
+LaTeX Info: Redefining \ref on input line 85.
+LaTeX Info: Redefining \pageref on input line 85.
+LaTeX Info: Redefining \nameref on input line 85.
 
 (./documentation.out) (./documentation.out)
 \@outlinefile=\write6
@@ -1159,28 +1159,28 @@ e
 <../logo.png, id=43, 305.64188pt x 755.82375pt>
 File: ../logo.png Graphic file (type png)
 <use ../logo.png>
-Package pdftex.def Info: ../logo.png  used on input line 89. on input line 89.
+Package pdftex.def Info: ../logo.png  used on input line 87. on input line 87.
 Package pdftex.def Info: Requested size: 152.82056pt x 377.91095pt on input lin
-e 89.
+e 87.
 
-Overfull \hbox (16.31818pt too wide) in paragraph at lines 89--89
+Overfull \hbox (16.31818pt too wide) in paragraph at lines 87--87
 [][] 
  []
 
 
 LaTeX Font Warning: Font shape `T2A/lmr/m/it' undefined
-(Font)              using `T2A/lmr/m/n' instead on input line 89.
+(Font)              using `T2A/lmr/m/n' instead on input line 87.
 
 
 LaTeX Font Warning: Font shape `T2A/lmr/m/sc' undefined
-(Font)              using `T2A/lmr/m/n' instead on input line 89.
+(Font)              using `T2A/lmr/m/n' instead on input line 87.
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <../logo.png>]
 
 LaTeX Font Warning: Font shape `T2A/lmr/bx/n' undefined
-(Font)              using `T2A/lmr/m/n' instead on input line 92.
+(Font)              using `T2A/lmr/m/n' instead on input line 90.
 
 (./documentation.toc
 LaTeX Font Info:    Try loading font information for OT1+lmr on input line 1.
@@ -1213,191 +1213,540 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 \openout7 = `documentation.toc'.
 
  [2]
-Underfull \hbox (badness 10000) in paragraph at lines 96--106
+Underfull \hbox (badness 10000) in paragraph at lines 94--104
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--106
+Underfull \hbox (badness 10000) in paragraph at lines 94--104
 
  []
 
-<../robot-teacher.jpg, id=69, 192.72pt x 125.5089pt>
+<../robot-teacher.jpg, id=68, 192.72pt x 125.5089pt>
 File: ../robot-teacher.jpg Graphic file (type jpg)
 <use ../robot-teacher.jpg>
-Package pdftex.def Info: ../robot-teacher.jpg  used on input line 108. on input
- line 108.
+Package pdftex.def Info: ../robot-teacher.jpg  used on input line 106. on input
+ line 106.
 Package pdftex.def Info: Requested size: 390.0pt x 253.98747pt on input line 10
-8.
+6.
 [3 <../robot-teacher.jpg>]
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\CYRV' on input line 111.
+(hyperref)                removing `\CYRV' on input line 109.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrhrdsn' on input line 111.
+(hyperref)                removing `\cyrhrdsn' on input line 109.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrv' on input line 111.
+(hyperref)                removing `\cyrv' on input line 109.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyre' on input line 111.
+(hyperref)                removing `\cyre' on input line 109.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrd' on input line 111.
+(hyperref)                removing `\cyrd' on input line 109.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyre' on input line 111.
+(hyperref)                removing `\cyre' on input line 109.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyrn' on input line 111.
+(hyperref)                removing `\cyrn' on input line 109.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyri' on input line 111.
+(hyperref)                removing `\cyri' on input line 109.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\cyre' on input line 111.
+(hyperref)                removing `\cyre' on input line 109.
 
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <14.4> on input line 115.
+(Font)              <14.4> on input line 113.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 115.
+(Font)              <10> on input line 113.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 115.
+(Font)              <7> on input line 113.
 
-Underfull \hbox (badness 10000) in paragraph at lines 116--119
+Underfull \hbox (badness 10000) in paragraph at lines 114--117
 []\T2A/lmr/m/n/14.4 Това е соф-ту-ер за ад-ми-нис-т-ри-ра-не, до-ку-мен-ти-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 116--119
+Underfull \hbox (badness 10000) in paragraph at lines 114--117
 \T2A/lmr/m/n/14.4 ра-не, прис-ле-дя-ва-не, пуб-ли-ку-ва-не и по-лу-ча-ва-не
  []
 
 
-Underfull \hbox (badness 5622) in paragraph at lines 116--119
+Underfull \hbox (badness 5622) in paragraph at lines 114--117
 \T2A/lmr/m/n/14.4 на обу-чи-тел-ни кур-со-ве и тре-ни-ро-вач-ни прог-ра-ми.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 129--135
+Underfull \hbox (badness 10000) in paragraph at lines 127--136
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 129--135
-
+Overfull \hbox (0.63641pt too wide) in paragraph at lines 127--136
+\T2A/lmr/m/n/14.4 са ин-те-рак-тив-ни, ин-те-рес-ни, по-лез-ни и въз-мож-но най
+-улеснени
  []
 
 
-Overfull \hbox (2.6187pt too wide) in paragraph at lines 129--135
-\T2A/lmr/m/n/14.4 Teacher will train student by lessons and different types of 
-exercises
+Underfull \hbox (badness 10000) in paragraph at lines 127--136
+
  []
 
 [4]
-Overfull \hbox (2.44826pt too wide) in paragraph at lines 139--140
-[]\T2A/lmr/m/n/14.4 Application Programming Interface that must return material
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\CYRI' on input line 136.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrm' on input line 136.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrp' on input line 136.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrl' on input line 136.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyre' on input line 136.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrm' on input line 136.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyre' on input line 136.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrn' on input line 136.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrt' on input line 136.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyra' on input line 136.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrc' on input line 136.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyri' on input line 136.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyro' on input line 136.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrn' on input line 136.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrn' on input line 136.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyri' on input line 136.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrd' on input line 136.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyre' on input line 136.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrt' on input line 136.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyra' on input line 136.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrishrt' on input line 136.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrl' on input line 136.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyri' on input line 136.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--143
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 139--140
-
- []
-
-
-Overfull \hbox (1.4908pt too wide) in paragraph at lines 140--141
-[]\T2A/lmr/m/n/14.4 Live bot chat for all questions during the lesson that "art
-ificial
- []
-
-<../schema.jpg, id=79, 814.04124pt x 517.935pt>
+<../schema.jpg, id=78, 814.04124pt x 517.935pt>
 File: ../schema.jpg Graphic file (type jpg)
 <use ../schema.jpg>
-Package pdftex.def Info: ../schema.jpg  used on input line 143. on input line 1
-43.
+Package pdftex.def Info: ../schema.jpg  used on input line 147. on input line 1
+47.
 Package pdftex.def Info: Requested size: 390.0pt x 248.13968pt on input line 14
-3.
-[5 <../schema.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 148--150
+7.
+[5]
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\CYRP' on input line 151.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrr' on input line 151.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyro' on input line 151.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrb' on input line 151.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrl' on input line 151.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyre' on input line 151.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrm' on input line 151.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyri' on input line 151.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\CYRP' on input line 152.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrr' on input line 152.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyri' on input line 152.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrl' on input line 152.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyro' on input line 152.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrzh' on input line 152.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrn' on input line 152.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyro' on input line 152.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrp' on input line 152.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrr' on input line 152.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyro' on input line 152.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrg' on input line 152.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrr' on input line 152.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyra' on input line 152.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrm' on input line 152.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyre' on input line 152.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrn' on input line 152.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyri' on input line 152.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrn' on input line 152.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrt' on input line 152.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyre' on input line 152.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrr' on input line 152.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrf' on input line 152.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyre' on input line 152.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrishrt' on input line 152.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrs' on input line 152.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--155
 
  []
 
 
-Overfull \hbox (17.82991pt too wide) in paragraph at lines 151--152
-\T2A/lmr/bx/n/14.4 design 3D object and until we implement all human facial exp
-ressions. 
- []
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\CYRD' on input line 155.
 
 
-Overfull \hbox (4.30965pt too wide) in paragraph at lines 153--154
-\T2A/lmr/bx/n/14.4 The biggest problem in this part of the project is how to un
-derstand
- []
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyre' on input line 155.
 
 
-Overfull \hbox (5.45975pt too wide) in paragraph at lines 153--154
-\T2A/lmr/bx/n/14.4 learning"where the data will be conversations between real s
-tudents
- []
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrz' on input line 155.
 
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 156.
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyra' on input line 155.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrishrt' on input line 155.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrn' on input line 155.
+
+[6 <../schema.jpg>]
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\CYRT' on input line 159.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyre' on input line 159.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrh' on input line 159.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrn' on input line 159.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyro' on input line 159.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrl' on input line 159.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyro' on input line 159.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrg' on input line 159.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyri' on input line 159.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyri' on input line 159.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyri' on input line 159.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyri' on input line 159.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrn' on input line 159.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrs' on input line 159.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrt' on input line 159.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrr' on input line 159.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyru' on input line 159.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrm' on input line 159.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyre' on input line 159.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrn' on input line 159.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrt' on input line 159.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyri' on input line 159.
+
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 161.
 
 (/usr/share/texmf-dist/tex/latex/lm/omslmr.fd
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <14.4> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 156.
- [6]
-<../bad_boy.png, id=89, 209.78375pt x 525.965pt>
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 161.
+ [7]
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\CYRB' on input line 165.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrhrdsn' on input line 165.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrd' on input line 165.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyre' on input line 165.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrshch' on input line 165.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyro' on input line 165.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrr' on input line 165.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyra' on input line 165.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrz' on input line 165.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrv' on input line 165.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyri' on input line 165.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrt' on input line 165.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyri' on input line 165.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyre' on input line 165.
+
+<../bad_boy.png, id=93, 209.78375pt x 525.965pt>
 File: ../bad_boy.png Graphic file (type png)
 <use ../bad_boy.png>
-Package pdftex.def Info: ../bad_boy.png  used on input line 163. on input line 
-163.
+Package pdftex.def Info: ../bad_boy.png  used on input line 167. on input line 
+167.
 Package pdftex.def Info: Requested size: 73.4254pt x 184.0905pt on input line 1
-63.
+67.
 
-Underfull \hbox (badness 5908) in paragraph at lines 165--167
-\T2A/lmr/bx/n/14.4 with psychologists. It includes also
+Underfull \hbox (badness 1043) in paragraph at lines 169--170
+\T2A/lmr/bx/n/14.4 по елек-т-ро-ни-ка ЅДжон Ата-на-сов^^P и
  []
 
 
-Underfull \hbox (badness 1320) in paragraph at lines 165--167
-\T2A/lmr/bx/n/14.4 improving "intelligence"of the teacher
- []
-
-
-Underfull \hbox (badness 1371) in paragraph at lines 165--167
-\T2A/lmr/bx/n/14.4 starting from Sofia Professional High
- []
-
-
-Overfull \hbox (4.87277pt too wide) in paragraph at lines 165--167
-\T2A/lmr/bx/n/14.4 School of Electronics "John Atanasov"and
- []
-
-
-Underfull \hbox (badness 3471) in paragraph at lines 170--171
-\T2A/lmr/bx/n/14.4 online learning system and
- []
-
-
-Overfull \hbox (20.08847pt too wide) in paragraph at lines 174--175
+Overfull \hbox (20.08847pt too wide) in paragraph at lines 177--178
 \T2A/lmr/bx/n/14.4 The diagram shows the results of non-representative survey c
 onducted
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 174--175
+Underfull \hbox (badness 10000) in paragraph at lines 177--178
 
  []
 
@@ -1410,7 +1759,7 @@ Missing character: There is no 6 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 
 LaTeX Font Warning: Font shape `T2A/lmr/m/n' in size <53.99976> not available
-(Font)              size <35.83> substituted on input line 177.
+(Font)              size <35.83> substituted on input line 180.
 
 Missing character: There is no c in font nullfont!
 Missing character: There is no y in font nullfont!
@@ -1430,80 +1779,80 @@ Missing character: There is no 6 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 
 LaTeX Font Warning: Font shape `T2A/lmr/m/n' in size <13.82343> not available
-(Font)              size <14.4> substituted on input line 177.
+(Font)              size <14.4> substituted on input line 180.
 
-[7 <../bad_boy.png>]
-Overfull \hbox (10.09117pt too wide) in paragraph at lines 191--192
+[8 <../bad_boy.png>]
+Overfull \hbox (10.09117pt too wide) in paragraph at lines 194--195
 []\T2A/lmr/m/n/14.4 High School Students Institute of Mathematics and Informati
 cs 
  []
 
-LaTeX Font Info:    Try loading font information for T2A+lmtt on input line 198
+LaTeX Font Info:    Try loading font information for T2A+lmtt on input line 201
 .
-LaTeX Font Info:    No file T2Almtt.fd. on input line 198.
+LaTeX Font Info:    No file T2Almtt.fd. on input line 201.
 
 LaTeX Font Warning: Font shape `T2A/lmtt/m/n' undefined
-(Font)              using `T2A/cmr/m/n' instead on input line 198.
+(Font)              using `T2A/cmr/m/n' instead on input line 201.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 197--199
+Underfull \hbox (badness 10000) in paragraph at lines 200--202
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 200--203
+Underfull \hbox (badness 10000) in paragraph at lines 203--206
 []\T2A/lmtt/m/n/14.4 Virtual objects seem totally real.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 200--203
+Underfull \hbox (badness 10000) in paragraph at lines 203--206
+
+ []
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 207--209
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 204--206
-
- []
-
-
-Underfull \hbox (badness 5403) in paragraph at lines 207--210
+Underfull \hbox (badness 5403) in paragraph at lines 210--213
 []\T2A/lmtt/m/n/14.4 The Future Of Chatbots And Artificial Intelligence.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 207--210
+Underfull \hbox (badness 10000) in paragraph at lines 210--213
 
  []
 
-[8]
-Underfull \hbox (badness 10000) in paragraph at lines 212--216
+
+Underfull \hbox (badness 10000) in paragraph at lines 215--219
 []\T2A/lmtt/m/n/14.4 Your DNA Avatar - What Happens When
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 212--216
+Underfull \hbox (badness 10000) in paragraph at lines 215--219
 \T2A/lmtt/m/n/14.4 Artificial Intelligence Meets Cutting-Edge Genetics?.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 212--216
+Underfull \hbox (badness 10000) in paragraph at lines 215--219
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 218--220
+Underfull \hbox (badness 10000) in paragraph at lines 221--223
 
  []
 
-[9pdfTeX warning (ext4): destination with the same identifier (name{cite.mariad
-b}) has been already used, duplicate ignored
+[10pdfTeX warning (ext4): destination with the same identifier (name{cite.maria
+db}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.236 \end{document}
+l.239 \end{document}
                     ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 236.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 236.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 239.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 239.
  (./documentation.aux
 ! Missing \endcsname inserted.
 <to be read again> 
@@ -1518,8 +1867,8 @@ l.38 ...elligence Meets Cutting-Edge Genetics?}{5}
                                                   
 ? 
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 236.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 236.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 239.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 239.
 
 
 Package rerunfilecheck Warning: File `documentation.out' has changed.
@@ -1527,8 +1876,8 @@ Package rerunfilecheck Warning: File `documentation.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `documentation.out':
-(rerunfilecheck)             Before: 113CBCA8A7E0E82F788EC3F475243761;518
-(rerunfilecheck)             After:  C09C423056B5D5CBC96E36C01E3EBB91;506.
+(rerunfilecheck)             Before: C09C423056B5D5CBC96E36C01E3EBB91;506
+(rerunfilecheck)             After:  2154E32D669D457BC4F3A0604E45A8F7;438.
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 18.16975pt have occurred.
@@ -1539,13 +1888,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 236.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 239.
  ) 
 Here is how much of TeX's memory you used:
- 18963 strings out of 492990
- 356659 string characters out of 6138688
- 416539 words of memory out of 5000000
- 22145 multiletter control sequences out of 15000+600000
+ 18977 strings out of 492990
+ 356688 string characters out of 6138688
+ 416450 words of memory out of 5000000
+ 22158 multiletter control sequences out of 15000+600000
  31409 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,6n,73p,932b,735s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1557,10 +1906,10 @@ re/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf-dist/f
 onts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf-dist/fonts/type1/publ
 ic/cm-super/sfrm1728.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfr
 m2074.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm3583.pfb>
-Output written on documentation.pdf (9 pages, 515157 bytes).
+Output written on documentation.pdf (10 pages, 521596 bytes).
 PDF statistics:
- 157 PDF objects out of 1000 (max. 8388607)
- 131 compressed objects within 2 object streams
- 31 named destinations out of 1000 (max. 500000)
+ 160 PDF objects out of 1000 (max. 8388607)
+ 133 compressed objects within 2 object streams
+ 32 named destinations out of 1000 (max. 500000)
  105 words of extra memory for PDF output out of 10000 (max. 10000000)
 

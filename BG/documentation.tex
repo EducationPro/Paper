@@ -53,9 +53,7 @@
 	
 	{\scshape \large
 		Под ръководството на \\
-		\hspace{-0.3cm}\href{https://bg.linkedin.com/in/zlatogor-minchev-a101b85}{Assoc. Prof. Zlatogor Minchev} \\
-		\& \\
-		\hspace{-0.3cm}\href{https://bg.linkedin.com/in/emil-kelevedjiev-34727310b}{Assist. Prof. Emil Kelevedjiev} \\\par
+		\hspace{-0.3cm}\href{https://bg.linkedin.com/in/zlatogor-minchev-a101b85}{Доц. д-р Златогор Минчев} \\\par
 	}
 	\vspace{1cm}
 	
@@ -126,48 +124,53 @@
 			Това е система, която трябва да помага на учениците по интерактивен, интересен, полезен и по-лесен начин за тях. Тя може да бъде представена като "индивидуален ментор" по съответния предмет.
 		\end{myblock}
 		\vspace{1cm}
-		There are a lot of built-in learning management systems, but there are not any system that combines artificial intelligence and virtual reality at once. \\
+		Изградени са доста системи за управление на обучението, но все още няма такава, която да комбинира изкуствения интелект с виртуалната реалност.\\
+		%There are a lot of built-in learning management systems, but there are not any system that combines artificial intelligence and virtual reality at once. \\
 		\\
-		The aim of our project is to create system that to build "artificial teacher" by following newest technologies and best practices in organizing training so that it will be interactive, interesting, useful and much easier for the students. The most important part of our project is to fertilize students, showing them that their subjects is not as difficult as sound.\\
-		\\		
-		Teacher will train student by lessons and different types of exercises which will include theoretical part, but will mostly be oriented practically. 
+		Основната цел на нашия проект е създаването на „виртуален асистент“, чрез най-новите технологии и прилагайки най-добрите практики при организирането на обучения, така че да са интерактивни, интересни, полезни и възможно най-улеснени за учениците. Най-важната част от проекта ни е да стимулираме учениците, показвайки им, че предметите не са толкова трудни, колкото изглеждат. \\
+		%The aim of our project is to create system that to build "artificial teacher" by following newest technologies and best practices in organizing training so that it will be interactive, interesting, useful and much easier for the students. The most important part of our project is to fertilize students, showing them that their subjects is not as difficult as sound.\\
+		\\
+		Асистентът ще отговаря на въпросите на учениците по съответните уроци и ще им предоставя допълнителна информация по темите, от които се интересуват.		
+		%Teacher will train student by lessons and different types of exercises which will include theoretical part, but will mostly be oriented practically. 
 	}
-	\section{Implementation}
-		The project is divided into three parts:
+	\section{Имплементационни детайли}%Implementation
+		Проектът е разделен на три части: %The project is divided into three parts:
 		\begin{itemize}
-			\item[appearance] Design, which must implement human facial expressions for better and realistic interactive communication. 
-			\item[intelligence] Application Programming Interface that must return material which must be learnt by student \\ \\ This interface uses data base to make information which will be used to build knowledge base where data base is simple data about how students visit resources and knowledge base is system of logical conditions.
-			\item[communication] Live bot chat for all questions during the lesson that "artificial teacher" presents. 
+			\item[Външен вид] Дизайнът имплементира мимики на лицето, за да може да намали коефициентът на нералност по време на обучението и за да подобри реалистичността на целялата комуникация. 
+			%\item[appearance] Design, which must implement human facial expressions for better and realistic interactive communication. 
+			\item[интелект] Приложно-програменият интерфейс ще отговаря на въпросите на учениците и ще връща полезната за тяхната сфера на развитие информация \\ \\ Той използва текст/урок на базата, на който отговаря на въпроси, също така ще използва база данни, генерирана от представителни сайтове с коректа информация по съответните теми.
+			%\item[intelligence] Application Programming Interface that must return material which must be learnt by student \\ \\ This interface uses data base to make information which will be used to build knowledge base where data base is simple data about how students visit resources and knowledge base is system of logical conditions.
+			\item[комуникация] За осъществяване на комуникацията се използват инструменти, превръщащи говорът в текст, който текст бива „разбран“ от асистента 
+			%\item[communication] Live bot chat for all questions during the lesson that "artificial teacher" presents. 
 		\end{itemize}
 		{\centering
 			\includegraphics[width=\textwidth]{../schema.jpg}
 		}
-		Each part has a lot of specifics and the project is quite challenging, but it would give a different, modern outlook to the future learning process.
-		\subsection{Problems}
-			\subsubsection{Application Programming Interface}
-				The most important thing, when you develop artificial intelligence by Neural Networks, is that you must have enough information, which is performed as systematic organized data, that you will use as material for building knowledge base. \\ \\
-				Current training data is only sample data and it is not so formal, but is enough for start.
-			\subsubsection{Design}
-				Design is not ready yet, because it costs a lot of time until we design 3D object and until we implement all human facial expressions. 
+		Всяка част има свойте специфики, което прави проектът още по-предизвикателен, но в крайна сметка целта е да предоставим едно различно обучение с модерен поглед към бъдещето.
+		%Each part has a lot of specifics and the project is quite challenging, but it would give a different, modern outlook to the future learning process.
+		\subsection{Проблеми}
+			\subsubsection{Приложно-програмен интерфейс}
+			    Процесът по анализиране на текст не е толкова голям проблем, зареди вече готовите инстументи за езика Python. По-големият проблем е с „разбирането“ на самия текст и изграждането на мрежа от думи, така че тя да представя случващото се в изречението/текста действие или случка. \\ \\
+			    За втората част няма изработени стабилни библиотеки и модули, което ни накара да си ги пишем сами, което се оказа не лесна задача, поради което все още не е напълно работещо „разбирането на текст“.
+			\subsubsection{Дезайн}
+			    АНТОАН ГЕОРГИЕВ ДА СЕ ЗАЕМЕ
 			\subsubsection{Communication}
-				The biggest problem in this part of the project is how to understand what the student want to know. It will be solved by "machine learning" where the data will be conversations between real students and teachers.
-	\section{Techniques}
+				АНТОАН ГЕОРГИЕВ ДА СЕ ЗАЕМЕ
+	\section{Технологии и инструменти}
 	\begin{itemize}
-		\item C++ for AI in combination $\rightarrow$ FastCGI++ for the API
-		\item WebGL for rendering the 3D model of the teacher
-		\item MakeHuman for building the 3D model of the teacher
+		\item Python \& NLTK модул в комбинация с анализатора на текст от Станфордския университет
+		\item АНТОАН ГЕОРГИЕВ ДА СЕ ЗАЕМЕ
 	\end{itemize}
 	\newpage
-	\section{Future}
+	\section{Бъдещо развитие}
 	\begin{wrapfigure}{l}{0.35\textwidth}
 		\includegraphics[scale=0.35]{../bad_boy.png}
 	\end{wrapfigure}
-	Future development includes building a 3D model of the teacher and developing of the facial human expressions together with psychologists. 
-	It includes also improving "intelligence" of the teacher and applying the technology in school starting from Sofia Professional High School of Electronics "John Atanasov" and Sofia High School of Matematics "Paisii Hilendarski". \\ \vspace{0.5cm}
+	Бъдещото развитие на проекта включва добавяне на мимики на лицето на 3D моделът ни съвместно с психолози, както и подобряване на „интелекта“ на асистента и прилагането на технологиятав училищата, започвайки от Софийската професионална гимназия по електроника „Джон Атанасов“ и Софийската математическа гимназия „Паисий Хилендарски“. \\ \vspace{0.5cm}
 	\begin{center}
-		\begin{myblock}{Survey questions}
+		\begin{myblock}{Въпроси от анкета}
 			\begin{enumerate}
-				\item Do you support building an online learning system and using it in school?
+				\item Подкрепяте ли изграждането на онлайн система за обучение и прилагането ѝ в училище?
 			\end{enumerate}
 		\end{myblock}
 	\end{center}
