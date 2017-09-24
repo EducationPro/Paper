@@ -1,14 +1,12 @@
 \documentclass[12pt]{beamer}
-\usepackage[T1]{fontenc}
-\usepackage[utf8]{inputenc}
 \usepackage{lmodern}
-\usepackage[english]{babel}
 \usepackage{xcolor}
 \usepackage{pgf,tikz}
 %\usetikzlibrary{calc}
 \usepackage{amssymb,amsmath,array,bm}
-\usepackage[T1]{fontenc}
+\usepackage[OT1,T2A]{fontenc}
 \usepackage[utf8]{inputenc}
+\usepackage[english,bulgarian]{babel}
 \usepackage{hyperref}
 \usepackage{multicol}
 \usepackage{tabularx}
@@ -27,103 +25,98 @@
 
 \begin{document}
 	
-	\date[SRS'17]{Summer Research School \\ 2017}
-	\institute[SHSM]{Sofia High School of Mathematics \\ Sofia, Bulgaria}
-	\author[Mr. Zlatogor Minchev, Alex]{
+	\date[УчИБАН'17]{УчИБАН \\ 2017}
+	%\institute[SHSM]{Sofia High School of Mathematics \\ Sofia, Bulgaria}
+	\author[Алекс, Антоан]{
 		\begin{table}[]
 			\begin{tabular}{rl}
-				\normalsize{Author:\      } & \normalsize{Alex Ivanov Tsvetanov} \\
-				\scriptsize{Mentors:     } & \scriptsize{Assoc. Prof. Zlatogor Minchev} \\
-				& \scriptsize{Assist. Prof. Emil Kelevedzhiev} \\
+				\normalsize{Автори:\      } & \normalsize{Алекс Цветанов и Антоан Георгиев} \\
+				\scriptsize{Ментор:     } & \scriptsize{Доц. д-р Златогор Минчев}
 			\end{tabular}
 		\end{table}
 	}
-	\title[ArtTeach]{Artificial teacher}
-	
+	\title[Виртуален асистент]{Виртуален асистент}
 	\begin{frame}
 		\titlepage
-	\end{frame}
-
+ 	\end{frame}
 	\begin{frame}
-		\frametitle{Introduction}
+		\frametitle{Въведение}
 		\begin{block}{}
-			The core aim of our project is to create system that combines these techniques and to build "artificial teacher" that combines best practices in organizing training so that it will be interesting, useful and much easier for the students. The most important part of our project is to fertilize students, showing them that their subjects is not as difficult as sound
+			Основната цел на нашия проект е създаването на „виртуален асистент“, чрез най-новите технологии и прилагайки най-добрите практики при организирането на обучения, така че да са интерактивни, интересни, полезни и възможно най-улеснени за учениците. Най-важната част от проекта ни е да стимулираме учениците, показвайки им, че предметите не са толкова трудни, колкото изглеждат. \\
+			\vspace{2ex}
+			Асистентът ще отговаря на въпросите на учениците по съответните уроци и ще им предоставя допълнителна информация по темите, от които се интересуват.
 		\end{block}
-	\end{frame}
-	
+ 	\end{frame}
 	\begin{frame}
-		\frametitle{Why it is useful?}
-		\begin{block}{It's useful ...}
+		\frametitle{Защо е полезен?}
+		\begin{block}{Полезен е ...}
 			\begin{itemize}
-				\item for self-study
-				\item for modernizing education
+				\item ако искате да се самообучавате
+				\item за да се модернизира образованието
 			\end{itemize}
 		\end{block}
-		\begin{block}{It allows young people ...}
+		\begin{block}{Позволява на младите хора ...}
 			\begin{itemize}
-				\item to touch new technologies
+				\item да се докоснат до най-новите технолгии, чрез преживяване
 			\end{itemize}
 		\end{block}
-		\begin{block}{It can ...}
+		\begin{block}{Асистентът може да ...}
 			\begin{itemize}
-				\item provoke the interest of young people in the subjects
+				\item провокира интереса на младите хора към предметите
 			\end{itemize}
 		\end{block}
 	\end{frame}
 	\begin{frame}
-		\frametitle{Architecture}
-		\includegraphics[width=\textwidth]{.../schema.jpg}
+		\frametitle{Архитетктура}
+		%\includegraphics[width=\textwidth]{.../schema.jpg}
 	\end{frame}
 	\begin{frame}
-		\frametitle{Innovations?}
+		\frametitle{Иновации?}
 		\begin{itemize}
-			\item It combines 2 new technologies - Machine learning/Artificial intelligence/Neural Network \& Virtual Reality
-			\item Learning is closer to the new generations
-			\item Learning is more interactive
+			\item обединява 2 нови технологии - Изкуствен интелект \& Виртуална реалност
+			\item Образованието става още по-близо до учениците
+			\item Образованието става по-интерактивно
 		\end{itemize}
 	\end{frame}
 	\begin{frame}
-		\frametitle{What is ready?}
+		\frametitle{Каква част от проекта е готова?}
 		\begin{itemize}
-			\item Neural network API based on statistics
-			\item Prototype of user interface
+			\item Трансформирането на прости изречения в мисловни карти
+			\item Прототип на потребителския интерфейс
+			АНТОАН ГЕОРГИЕВ ДА СЕ ЗАЕМЕ
 		\end{itemize}
 	\end{frame}
 	\begin{frame}
-		\frametitle{What is next?}
+		\frametitle{Какво следва?}
 		\begin{itemize}
-			\item Improvement of API (it will start to use "expert system") 
-			\item Finishing 3D human model
-			\item Building library for voice/text communication with students
-			\item Finishing web-based user interface
-			\item Building API-based mobile application
-			\item Building VR application
+			\item Завършването на генератора на мисловни карти
+			\item Изграждането на библиотеки за гласова и текстова комуникация с учениците
+			\item Изграждането на VR приложение
+			АНТОАН ГЕОРГИЕВ ДА СЕ ЗАЕМЕ
 		\end{itemize}
 	\end{frame}
 	\begin{frame}
 		\begin{center}
-			{\Huge Live prototype demo} \\ \vspace{1cm}
+			{\Huge Демо на прототипа} \\ \vspace{1cm}
 			\includegraphics[scale=0.25]{../bad_boy.png}
 		\end{center}
 	\end{frame}
 	\begin{frame}
-		Special thanks for:
+		 	 	 Специални благодарности за:
 		\begin{itemize}
-			\item \href{https://bg.linkedin.com/in/zlatogor-minchev-a101b85}{Assoc. Prof. Zlatogor Minchev} \\
-			\item \href{https://bg.linkedin.com/in/emil-kelevedjiev-34727310b}{Assist. Prof. Emil Kelevedjiev} \\\par
+			\item Златогор Минчев за изграждането на идеята
 		\end{itemize}
-		\vspace{0.5cm}
-		Acknowledges for:
+		Благодарим също на:
 		\begin{itemize}
-			\item \href{http://www.math.bas.bg/omi/hssimi/}{High School Students Institute of Mathematics and Informatics}
-			\item \href{http://www.math.bas.bg/}{Bulgarian Academy of Sciences}
-			\item \href{http://www.smg.bg}{Sofia High School of Mathematics}
-			\item \href{https://www.vrexpress.bg/}{VR Express}
+			\item Ученически институт към БАН
+			\item Българска академия на науките
+			\item VR Express
+			\item iGreet
 		\end{itemize}
 	\end{frame}
 	
 	\begin{frame}
-	\frametitle{Resources}
+	\frametitle{Ресурси}
 		\begin{itemize}
 			\item
 			{\itshape Artificial Intelligence: A Modern Approach, \\ 3rd Edition, Prentice Hall, 2010}. \\
@@ -138,18 +131,6 @@
 			{\itshape The Future Of Chatbots And Artificial Intelligence}.
 			\item
 			{\itshape Your DNA Avatar - What Happens When Artificial Intelligence Meets Cutting-Edge Genetics?}.
-			\item%{gcc}
-			{\itshape GNU Compiler Collection}.
-			\texttt{https://gcc.gnu.org/}. \\
-			Copyright \copyright\  2009 Free Software Foundation, Inc.
-			\item%{mariadb}
-			{\itshape MariaDB}.
-			\texttt{https://mariadb.org/}. \\
-			Copyright \copyright\  2017 MariaDB Foundation
-			\item%{mariadb}
-			{\itshape MariaDB++}.
-			\texttt{https://mariadb.org/}. \\
-			Copyright \copyright\  2017 MariaDB Foundation
 			\item%{latex}
 			{\itshape \LaTeX}.
 			\texttt{https://www.latex-project.org/}.
@@ -158,14 +139,14 @@
 	
 	\begin{frame}
 	\begin{center}
-	{\Huge Questions}\\
+	{\Huge Въпроси}\\
 	\includegraphics[scale=0.25]{../questions.png}
 	\end{center}
 	\end{frame}
 	
 	\begin{frame}
 	\begin{center}
-	{\Huge Thank you\\for\\the attention!}
+	{\Huge Благодарим\\за\\вниманието!}
 	\end{center}
 	\end{frame}
 

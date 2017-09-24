@@ -7,4 +7,4 @@
 \contentsline {subsubsection}{\numberline {2.1.3}Communication}{7}{subsubsection.2.1.3}
 \contentsline {section}{\numberline {3}\IeC {\CYRT }\IeC {\cyre }\IeC {\cyrh }\IeC {\cyrn }\IeC {\cyro }\IeC {\cyrl }\IeC {\cyro }\IeC {\cyrg }\IeC {\cyri }\IeC {\cyri } \IeC {\cyri } \IeC {\cyri }\IeC {\cyrn }\IeC {\cyrs }\IeC {\cyrt }\IeC {\cyrr }\IeC {\cyru }\IeC {\cyrm }\IeC {\cyre }\IeC {\cyrn }\IeC {\cyrt }\IeC {\cyri }}{7}{section.3}
 \contentsline {section}{\numberline {4}\IeC {\CYRB }\IeC {\cyrhrdsn }\IeC {\cyrd }\IeC {\cyre }\IeC {\cyrshch }\IeC {\cyro } \IeC {\cyrr }\IeC {\cyra }\IeC {\cyrz }\IeC {\cyrv }\IeC {\cyri }\IeC {\cyrt }\IeC {\cyri }\IeC {\cyre }}{8}{section.4}
-\contentsline {section}{\numberline {5}Acknowledgments}{9}{section.5}
+\contentsline {section}{\numberline {5}\IeC {\CYRB }\IeC {\cyrl }\IeC {\cyra }\IeC {\cyrg }\IeC {\cyro }\IeC {\cyrd }\IeC {\cyra }\IeC {\cyrr }\IeC {\cyrn }\IeC {\cyro }\IeC {\cyrs }\IeC {\cyrt }\IeC {\cyri }}{9}{section.5}
